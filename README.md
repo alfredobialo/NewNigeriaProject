@@ -4,6 +4,6 @@ Initially Created for the NewNigerian Group. a Social news aggregator built with
 You free to create an Account to test the features available. Note: this an ongoing project and a lot of changes will come soon
 
 ## Login with this account for a Quick view
-_____________________________________________-
+
 ### user id : alfredcsdinc@gmail.com
 ### password : alfred
